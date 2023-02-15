@@ -4,7 +4,7 @@
 
 *Développeur junior, en formation "Développement web et accessibilité"*
 
-Acceuil - [Projet](#) - [CV](#) - [Contact](#)
+Acceuil - [Projet](projets.md) - [CV](cv.md) - [Contact](contact.md)
 
 ## Présentation
 
@@ -14,4 +14,4 @@ Coopé de Truchtersheim Huguette rhoncus réchime blottkopf, ullamcorper sit c
 
 ---
 
-© 2023 - Julien PIERRAT-LABOLLE - [Me contacter](#)
+© 2023 - Julien PIERRAT-LABOLLE - [Me contacter](contact.md)
